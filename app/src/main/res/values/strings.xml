@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloListView</string>
+    <string-array name="majors_array">
+    <item>วิศวกรรมซอฟต์แวร์</item>
+    <item>วิทยาการคอมพิวเตอร์</item>
+    <item>เทคโนโลยีสารสนเทศ</item>
+    <item>คอมพิวเตอร์ธุรกิจ</item>
+    <item>คอมพิวเตอร์อุตสาหกรรม</item>
+    <item>คอมพิวเตอร์ศึกษา</item>
+    <item>วิศวกรรมคอมพิวเตอร์</item>
+    </string-array>
+</resources>
